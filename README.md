@@ -1,4 +1,4 @@
-# tetris-sdl
+# Jais Dream
 Basic platformer prototype game made with C++ and SDL2
 
 # Build
